@@ -24,7 +24,9 @@ I’m a Higher Vocational Training graduate in Systems Administration and curren
 
 ---
 
-## 📫 Social 📧 [juanjogomezcanil@gmail.com](mailto:juanjogomezcanil@gmail.com) <a style="text-decoration: none" target="_blank" href="https://mail.google.com/mail/u/1/#inbox"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+## 📫 Social 📧 
+
+[juanjogomezcanil@gmail.com](mailto:juanjogomezcanil@gmail.com) <a style="text-decoration: none" target="_blank" href="https://mail.google.com/mail/u/1/#inbox"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/juan-jos%C3%A9-g%C3%B3mez-ca%C3%B1il/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
